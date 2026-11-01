@@ -11,10 +11,12 @@
             "id": "3f7bc6108a9458e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Arabic Learning/lec_01.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "lec_01"
             }
           }
         ]
