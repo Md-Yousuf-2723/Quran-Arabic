@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9c05ee12d768d225",
+        "id": "bafea8b328be5f89",
         "type": "tabs",
         "children": [
           {
-            "id": "3f7bc6108a9458e4",
+            "id": "1a39dbd051ed02ca",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arabic Learning/lec_01.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "lec_01"
-            }
-          },
-          {
-            "id": "9d85512bbbbe3f45",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arabic Learning/lec_02.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "lec_02"
-            }
-          },
-          {
-            "id": "fa5805d064317e9d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arabic Learning/lec_03.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "lec_03"
-            }
-          },
-          {
-            "id": "805ec15f164c6d5c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arabic Learning/lec_04.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "lec_04"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,11 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "805ec15f164c6d5c",
+  "active": "1a39dbd051ed02ca",
   "lastOpenFiles": [
+    "Arabic Learning/lec_04.md",
     "Arabic Learning/lec_03.md",
     "Arabic Learning/lec_02.md",
-    "Arabic Learning/lec_04.md",
     "Arabic Learning/lec_01.md",
     "Excalidraw",
     "Arabic Learning/lec_01 1.md",
